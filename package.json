@@ -4,8 +4,7 @@
     "engines": {
         "pnpm": ">=9"
     },
-    {
-      "scripts": {
+    "scripts": {
         "start": "node src/cobalt"
-      }
+    }
 }
